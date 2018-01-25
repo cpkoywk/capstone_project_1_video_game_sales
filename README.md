@@ -31,7 +31,7 @@ I took the following steps to clean/wrangle the dataset
 ## List other potential data sets you could use
 The dataset I'm using has the overall critic review score for each video game, that score was aggregated by Metacritic from various video game review critics/websites. If the dataset has the breakdown of each score that indicates the review score from each critic and website, that would help us further discover if some particular critics and websites are more influential in consumer decision makings than the others.
 
-## Explain your initial findings
+## Initial findings
 1. More users are paying attention to reviews on Metacritics in recent years (2010 and on)
     i. On one hand, the non-Japanese users take critics' scores more into consideration when deciding buying a game or not
     ii. On the other hand, much more users started to post reviews on Metacritics since 2010, which might be the cause of the declining relevance between Metacritics user scores and game sales.
